@@ -1,1 +1,1 @@
-TODO App made with React + Redux
+React Redux bolierplate
